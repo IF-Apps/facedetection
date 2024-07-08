@@ -3,7 +3,7 @@
     "hostRequirements": {
     "cpus": 16
   },
-{
+
   "customizations": {
     "vscode": {
       "extensions": [
@@ -17,5 +17,4 @@
       "installCudnn": true
     }
   }
-}
 }
