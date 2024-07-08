@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG20240701111325_jpg.rf.1ee216b2f79dcf465f7815d4b284bd1d.jpg</filename>
+	<path>IMG20240701111325_jpg.rf.1ee216b2f79dcf465f7815d4b284bd1d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>71</xmin>
+			<xmax>286</xmax>
+			<ymin>72</ymin>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

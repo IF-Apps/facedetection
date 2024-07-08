@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG20240603151843_jpg.rf.4c3ab4289b8e7d475bb567269959e938.jpg</filename>
+	<path>IMG20240603151843_jpg.rf.4c3ab4289b8e7d475bb567269959e938.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Senang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>91</xmin>
+			<xmax>211</xmax>
+			<ymin>141</ymin>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG20240701115420_jpg.rf.4ea82aad5e3e2d1191e8655828d773db.jpg</filename>
+	<path>IMG20240701115420_jpg.rf.4ea82aad5e3e2d1191e8655828d773db.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Netral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>72</xmin>
+			<xmax>257</xmax>
+			<ymin>88</ymin>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

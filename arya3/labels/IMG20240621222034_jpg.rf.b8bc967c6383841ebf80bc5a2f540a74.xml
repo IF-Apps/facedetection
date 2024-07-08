@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG20240621222034_jpg.rf.b8bc967c6383841ebf80bc5a2f540a74.jpg</filename>
+	<path>IMG20240621222034_jpg.rf.b8bc967c6383841ebf80bc5a2f540a74.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sedih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>121</xmin>
+			<xmax>239</xmax>
+			<ymin>115</ymin>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>
