@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG20240701114351_jpg.rf.99d44b49910c2b79f5e434e0f441b54c.jpg</filename>
+	<path>IMG20240701114351_jpg.rf.99d44b49910c2b79f5e434e0f441b54c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Takut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>57</xmin>
+			<xmax>217</xmax>
+			<ymin>101</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
